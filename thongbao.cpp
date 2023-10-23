@@ -2,9 +2,6 @@
 
 int main() {
 	
-	std::cout << "thong bao doi noi dung !";
-	std::cout << "thay doi noi dung!";
-
-
-	return 0;
+	int a = 10, b = 20;
+	return a + b;
 }
