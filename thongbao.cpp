@@ -2,9 +2,9 @@
 
 int main() {
 	
-	std::cout << "thong bao doi noi dung !";
-	std::cout << "thay doi noi dung!";
-	std::cout << "thay doi noi dung lan 3!";
+	int a = 10, b = 20;
+	if (a > 0)
+		cout << a + b << endl;
 
 	return 0;
 }
