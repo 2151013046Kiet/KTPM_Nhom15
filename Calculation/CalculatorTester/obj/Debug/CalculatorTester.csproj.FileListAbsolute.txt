@@ -1,0 +1,11 @@
+C:\Users\admin\Desktop\Calculation\CalculatorTester\bin\Debug\CalculatorTester.dll
+C:\Users\admin\Desktop\Calculation\CalculatorTester\bin\Debug\CalculatorTester.pdb
+C:\Users\admin\Desktop\Calculation\CalculatorTester\bin\Debug\Calculation.exe
+C:\Users\admin\Desktop\Calculation\CalculatorTester\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\admin\Desktop\Calculation\CalculatorTester\bin\Debug\Calculation.pdb
+C:\Users\admin\Desktop\Calculation\CalculatorTester\obj\Debug\CalculatorTester.dll
+C:\Users\admin\Desktop\Calculation\CalculatorTester\obj\Debug\CalculatorTester.pdb
+C:\Users\admin\Desktop\Calculation\CalculatorTester\bin\Debug\Calculation.exe.config
+C:\Users\admin\Desktop\Calculation\CalculatorTester\obj\Debug\CalculatorTester.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Calculation\CalculatorTester\obj\Debug\CalculatorTester.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Calculation\CalculatorTester\obj\Debug\CalculatorTester.csproj.CopyComplete
